@@ -1,0 +1,5 @@
+{
+  "hostname": "TEST-SERVER",
+  "os": "Windows 10",
+  "vulnerabilities": ["CVE-2017-0144"]
+}
